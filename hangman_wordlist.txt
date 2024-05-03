@@ -1,0 +1,14 @@
+medium 
+laser
+difraction
+helium
+neon
+arrays
+structures
+pointers
+string
+looping
+malloc
+calloc
+realloc
+binary 
